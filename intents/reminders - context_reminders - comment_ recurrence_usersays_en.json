@@ -1,0 +1,273 @@
+[
+  {
+    "id": "dc99a33f-4f8d-4397-bde4-e458ad5b37dd",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "the one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "each weekend",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d603967e-dffd-4343-9dd3-2a06b36465ff",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "every Tuesday",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b95a177c-67bf-4091-9f39-794ccf2a2385",
+    "data": [
+      {
+        "text": "and for ",
+        "userDefined": false
+      },
+      {
+        "text": "every Friday",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8014aa42-5b5e-4501-aef6-1b97c107eb84",
+    "data": [
+      {
+        "text": "the one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf8ffe84-3180-4ea2-8ba6-4ede0aaf7ab2",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scheduled ",
+        "userDefined": false
+      },
+      {
+        "text": "weekly",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fc9a8af-0b40-479d-b104-37b5c50b21f6",
+    "data": [
+      {
+        "text": "and another ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesdays",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f878a21-d498-4e3a-8c8c-15327ff8bba2",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " more for ",
+        "userDefined": false
+      },
+      {
+        "text": "every weekday",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0abe1203-c50a-48f4-8170-d5ae308c2550",
+    "data": [
+      {
+        "text": "plus ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "mondays",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "474d0567-84f6-4d56-9d45-5ac261dda279",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " more for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sundays",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da66acce-b47b-41cc-b0e9-751e82faeb07",
+    "data": [
+      {
+        "text": "and scheduled for ",
+        "userDefined": false
+      },
+      {
+        "text": "Fridays",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4703f57-3c8d-49d8-bc8a-0007ebb82b17",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "the one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sheduled for ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

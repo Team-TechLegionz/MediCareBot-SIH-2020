@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b04b222c-eb30-4df3-877e-d52779a61214",
+    "data": [
+      {
+        "text": "What are reasons  of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": true
+      },
+      {
+        "text": " diabetes\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e977cc-6b86-4af6-9868-1ca226621e46",
+    "data": [
+      {
+        "text": "What are causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": true
+      },
+      {
+        "text": " diabetes\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "885b50ff-c5ea-4496-a7a1-f74ad02f9c3c",
+    "data": [
+      {
+        "text": "give me causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26740c5b-1e5b-451a-b4fa-b608e4224449",
+    "data": [
+      {
+        "text": "say me about ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": true
+      },
+      {
+        "text": " diabetes reasons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

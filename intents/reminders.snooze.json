@@ -1,0 +1,51 @@
+{
+  "id": "eb4515f4-4e0c-4563-b7c1-bf3cd89fa58f",
+  "name": "reminders.snooze",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.snooze",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c069c008-e3ec-4e73-bf92-c2af005e94c2",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When should I remind you again?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Will do!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

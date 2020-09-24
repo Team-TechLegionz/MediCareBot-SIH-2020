@@ -1,0 +1,47 @@
+{
+  "id": "5a809687-fd3c-4b41-a01b-e4f083765abe",
+  "name": "high-fever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "fever-tips",
+          "subtitle": "Some Tips to treat fever.",
+          "imageUrl": "https://www.livealittlelonger.com/wp-content/uploads/2016/01/natural-herbal-tea-for-fever.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "speech": "Fever is when a human\u0027s body temperature goes above the normal range of 36–37° Centigrade (98–100° Fahrenheit). It is a common medical sign. Other terms for a fever include pyrexia and controlled hyperthermia."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Fever is when a human\u0027s body temperature goes above the normal range of 36–37° Centigrade (98–100° Fahrenheit). It is a common medical sign. Other terms for a fever include pyrexia and controlled hyperthermia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

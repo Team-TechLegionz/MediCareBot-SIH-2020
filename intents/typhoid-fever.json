@@ -1,0 +1,53 @@
+{
+  "id": "f979f138-7bf1-4785-a1a5-eeecf492fd8e",
+  "name": "typhoid-fever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a14903eb-79b8-4310-be28-4b71693e2fc1",
+          "required": true,
+          "dataType": "@typhoid",
+          "name": "typhoid",
+          "value": "$typhoid",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Typhoid fever is a life-threatening illness caused by Salmonella Typhi bacteria. Paratyphoid fever is a life-threatening illness caused by Salmonella Paratyphi bacteria."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Typhoid fever is a systemic infection caused by Salmonella Typhi, usually through the ingestion of contaminated food or water.",
+            "y"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "64cda731-f428-4568-875f-f50a14f82293",
+  "name": "reminders - context:reminders - comment: recurrence",
+  "auto": true,
+  "contexts": [
+    "reminders"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "#reminders.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "314dad5b-0aa2-4521-a3af-9ac4a3030164",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Scheduled."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

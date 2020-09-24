@@ -1,0 +1,47 @@
+{
+  "id": "d57e575c-f457-4cd6-a837-82cfcb9c764f",
+  "name": "gestational-diabetes-causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9e4e5ae-58b3-4a8f-882b-b28195e95ae9",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "When you eat, your pancreas releases insulin, a hormone that helps move a sugar called glucose from your blood to your cells, which use it for energy.",
+            "During pregnancy, your placenta makes hormones that cause glucose to build up in your blood. Usually, your pancreas can send out enough insulin to handle it. But if your body can’t make enough insulin or stops using insulin like it should, your blood sugar levels rise, and you get gestational diabetes."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

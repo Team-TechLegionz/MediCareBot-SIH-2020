@@ -1,0 +1,50 @@
+[
+  {
+    "id": "710190dc-8d9f-4e43-81a4-9d2e9f9c7de6",
+    "data": [
+      {
+        "text": "define fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee72abc0-7d72-484e-bb43-ddbe3ac12fa8",
+    "data": [
+      {
+        "text": "tell me about fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c122a340-98b5-4c10-9b8f-6e90aaf3d48e",
+    "data": [
+      {
+        "text": "explain fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "272d6d7a-683d-46a1-a505-7b05a32f4232",
+    "data": [
+      {
+        "text": "What is fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

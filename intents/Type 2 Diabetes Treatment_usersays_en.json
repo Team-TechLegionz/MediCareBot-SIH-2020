@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9e8acbad-e3e7-45d1-896e-5cdbfd2409ca",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "type two",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee45b284-a7bf-4dc9-b633-1f07674e50c7",
+    "data": [
+      {
+        "text": "mention some treatments for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "562461e0-21bf-45ce-bd26-afeff760d9fb",
+    "data": [
+      {
+        "text": " treatments for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f45c81f1-bff0-4147-83fd-f140c6676bd8",
+    "data": [
+      {
+        "text": "how to cure ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae00ddab-f624-43b9-af3f-d3503765b22d",
+    "data": [
+      {
+        "text": "how to treat ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

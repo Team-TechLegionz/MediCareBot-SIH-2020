@@ -1,0 +1,31 @@
+{
+  "id": "a2cd0902-9b3c-40c8-bcf1-76aa1b64beff",
+  "name": "hbp-curable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hypertension is a chronic disease. It can be controlled with medication, but it cannot be cured. Therefore, patients need to continue with the treatment and lifestyle modifications as advised by their doctor, and attend regular medical follow up, usually for life."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

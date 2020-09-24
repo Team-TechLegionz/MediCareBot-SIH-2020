@@ -1,0 +1,31 @@
+{
+  "id": "458ee1c9-7a7c-4509-9fbc-47ff18116b8e",
+  "name": "diagnosis-of-fatigue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are no medical tests to screen for CFS(Chronic Fatigue Syndrome). Its symptoms are similar to many other conditions. Many people with CFS don’t “look sick,” so doctors may not recognize that they indeed have a health condition.\n\nIn order to receive a CFS diagnosis, your doctor will rule out other potential causes and review your medical history with you.\n\nThey’ll confirm that you at least have the core symptoms previously mentioned. They’ll also ask about the duration and severity of your unexplained fatigue.\n\nRuling out other potential causes of your fatigue is a key part of the diagnosis process"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

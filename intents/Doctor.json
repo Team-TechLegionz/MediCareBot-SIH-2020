@@ -1,0 +1,69 @@
+{
+  "id": "2056a73f-5b27-430d-bd93-db68f5054967",
+  "name": "Doctor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Doctors \u0026 Experts",
+          "imageUrl": "https://labblog.uofmhealth.org/sites/lab/files/2018-06/michigan-med-l-doc-wardrobe.jpg",
+          "buttons": [
+            {
+              "text": "Book an Appointment",
+              "postback": "https://www.practo.com/doctors"
+            }
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Doctors \u0026 Experts",
+          "formattedText": "Here are list of some doctors you could consult.",
+          "image": {
+            "url": "https://labblog.uofmhealth.org/sites/lab/files/2018-06/michigan-med-l-doc-wardrobe.jpg",
+            "accessibilityText": "Image"
+          },
+          "buttons": [
+            {
+              "title": "Book an Appointment",
+              "openUrlAction": {
+                "url": "https://www.practo.com/doctors",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "type1",
+    "synonyms": [
+      "type1",
+      "type 1",
+      "type one",
+      "t1",
+      "t 1"
+    ]
+  },
+  {
+    "value": "type2",
+    "synonyms": [
+      "type2",
+      "type 2",
+      "type two",
+      "typetwo",
+      "t2",
+      "t 2"
+    ]
+  },
+  {
+    "value": "gestational",
+    "synonyms": [
+      "gestational"
+    ]
+  }
+]

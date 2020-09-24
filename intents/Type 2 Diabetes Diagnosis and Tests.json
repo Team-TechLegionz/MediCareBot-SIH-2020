@@ -1,0 +1,44 @@
+{
+  "id": "5362b4dc-50a2-40a5-a573-0d365127c4c8",
+  "name": "Type 2 Diabetes Diagnosis and Tests",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c7e1e63-550f-4003-a3f7-0bb1e7dedc58",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A1c. It\u0027s like an average of your blood glucose over the past 2 or 3 months.\nFasting plasma glucose. This is also known as a fasting blood sugar test. It measures your blood sugar on an empty stomach. You won\u0027t be able to eat or drink anything except water for 8 hours before the test.\nOral glucose tolerance test (OGTT). This checks your blood glucose before and 2 hours after you drink something sweet to see how your body handles the sugar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

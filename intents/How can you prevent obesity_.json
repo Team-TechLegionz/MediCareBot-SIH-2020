@@ -1,0 +1,31 @@
+{
+  "id": "00de3900-1021-4278-9581-2b8b1924a427",
+  "name": "How can you prevent obesity?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Help prevent weight gain by making good lifestyle choices. Aim for moderate exercise (walking, swimming, biking) for 20 to 30 minutes every day.\n\nEat well by choosing nutritious foods like fruits, vegetables, whole grains, and lean protein. Eat high-fat, high-calorie foods in moderation."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

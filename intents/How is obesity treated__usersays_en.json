@@ -1,0 +1,74 @@
+[
+  {
+    "id": "58db43e1-dc31-47fc-af0a-0136470bb007",
+    "data": [
+      {
+        "text": "I have obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "758b852c-7ff5-4a19-aa74-3e31d1027181",
+    "data": [
+      {
+        "text": "I am suffering from obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2c1dae1-d761-4d04-80a0-9de0453bcc50",
+    "data": [
+      {
+        "text": "How can I treat obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f40c95c9-6fe2-4747-a881-d6e430a26d52",
+    "data": [
+      {
+        "text": "cures for obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b194f8c-ea24-4a1a-a4d0-3fa42ea9cdb0",
+    "data": [
+      {
+        "text": "how to treat obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "388e8468-44bb-48ff-91a5-44cb087c7d79",
+    "data": [
+      {
+        "text": "Treatments for obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

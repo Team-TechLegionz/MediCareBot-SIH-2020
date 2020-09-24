@@ -1,0 +1,69 @@
+{
+  "id": "db66cddb-245c-4c6a-9cd9-03249958cb6c",
+  "name": "reminders.rename",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.rename",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c429a354-f67e-4c1e-9e4f-bdd1490cf4dd",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "old-name",
+          "value": "$old-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the reminder you want to change?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "44edda84-35f3-4ead-ac84-e42a649d0bd8",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the new name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Done!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

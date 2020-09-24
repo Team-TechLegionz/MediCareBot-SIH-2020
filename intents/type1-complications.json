@@ -1,0 +1,52 @@
+{
+  "id": "d44f1118-0a9a-4970-b747-c6d86d235f19",
+  "name": "type1-complications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3e62655-f300-4a0b-836d-322409b5097b",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Heart and blood vessel disease. Diabetes dramatically increases your risk of various cardiovascular problems, including coronary artery disease with chest pain (angina), heart attack, stroke, narrowing of the arteries (atherosclerosis) and high blood pressure.",
+            "Nerve damage (neuropathy). Excess sugar can injure the walls of the tiny blood vessels (capillaries) that nourish your nerves, especially in the legs. This can cause tingling, numbness, burning or pain that usually begins at the tips of the toes or fingers and gradually spreads upward. Poorly controlled blood sugar could cause you to eventually lose all sense of feeling in the affected limbs.\n\nDamage to the nerves that affect the gastrointestinal tract can cause problems with nausea, vomiting, diarrhea or constipation. For men, erectile dysfunction may be an issue.",
+            "Kidney damage (nephropathy). The kidneys contain millions of tiny blood vessel clusters that filter waste from your blood. Diabetes can damage this delicate filtering system. Severe damage can lead to kidney failure or irreversible end-stage kidney disease, which requires dialysis or a kidney transplant.",
+            "Eye damage. Diabetes can damage the blood vessels of the retina (diabetic retinopathy), potentially causing blindness. Diabetes also increases the risk of other serious vision conditions, such as cataracts and glaucoma.",
+            "Foot damage. Nerve damage in the feet or poor blood flow to the feet increases the risk of various foot complications. Left untreated, cuts and blisters can become serious infections that may ultimately require toe, foot or leg amputation.",
+            "Skin and mouth conditions. Diabetes may leave you more susceptible to infections of the skin and mouth, including bacterial and fungal infections. Gum disease and dry mouth also are more likely.",
+            "Pregnancy complications. High blood sugar levels can be dangerous for both the mother and the baby. The risk of miscarriage, stillbirth and birth defects increases when diabetes isn\u0027t well-controlled. For the mother, diabetes increases the risk of diabetic ketoacidosis, diabetic eye problems (retinopathy), pregnancy-induced high blood pressure and preeclampsia."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

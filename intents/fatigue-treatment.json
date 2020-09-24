@@ -1,0 +1,34 @@
+{
+  "id": "6d1c525c-d068-42b4-9412-ae9cef540d75",
+  "name": "fatigue-treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "The treatment for fatigue depends upon the cause. Some treatments for conditions that cause fatigue include medications, antibiotics, vitamins, and exercise. Medical treatment of fatigue depends on the treatment of its underlying cause(s).",
+            "Fortunately, many causes of fatigue may be treated with medications, for example, iron supplements for anemia, medications and machines to help sleep apnea, medications to control blood sugar, medications to regulate thyroid function, antibiotics to treat infection, vitamins, and/or recommendations for dietary changes and a sensible exercise program."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

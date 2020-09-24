@@ -1,0 +1,34 @@
+{
+  "id": "2a7e6ce0-d371-4c2d-bc1b-2a6dab6b2fe9",
+  "name": "obesity-causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Common specific causes of obesity include:\n\neating a poor diet of foods high in fats and calories\nhaving a sedentary (inactive) lifestyle\nnot sleeping enough, which can lead to hormonal changes that make you feel hungrier and crave certain high-calorie foods\ngenetics, which can affect how your body processes food into energy and how fat is stored\ngrowing older, which can lead to less muscle mass and a slower metabolic rate, making it easier to gain weight\npregnancy (weight gained during pregnancy can be difficult to lose and may eventually lead to obesity)",
+            "Medical conditions may also lead to weight gain. These include:\n\npolycystic ovary syndrome (PCOS): a condition that causes an imbalance of female reproductive hormones\nPrader-Willi syndrome: a rare condition that an individual is born with which causes excessive hunger\nCushing syndrome: a condition caused by having an excessive amount of the hormone cortisol in your system\nhypothyroidism (underactive thyroid): a condition in which the thyroid gland doesn’t produce enough of certain important hormones\nosteoarthritis (and other conditions that cause pain that may lead to inactivity)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

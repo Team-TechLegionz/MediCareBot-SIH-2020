@@ -1,0 +1,44 @@
+{
+  "id": "0dd2ceb9-4295-44a1-8548-9cd851e8c91e",
+  "name": "Treatment of Type 1 Diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b2c4f75-aa71-4869-8452-83faf669216c",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Treatment for type 1 diabetes includes:\n\nTaking insulin\nCarbohydrate, fat and protein counting\nFrequent blood sugar monitoring\nEating healthy foods\nExercising regularly and maintaining a healthy weight"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

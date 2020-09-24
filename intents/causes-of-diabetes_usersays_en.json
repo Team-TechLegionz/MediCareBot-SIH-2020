@@ -1,0 +1,62 @@
+[
+  {
+    "id": "955a70d2-1910-4363-ab00-d5ac48c612d1",
+    "data": [
+      {
+        "text": "Tell me what are cause of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23eb37d3-c06f-4345-b0e4-3ad4ea2a795a",
+    "data": [
+      {
+        "text": "What are causes of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03225b58-4ddd-419e-b9c3-ff38f80bb156",
+    "data": [
+      {
+        "text": "reasons for diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ea1d30f-144c-4438-83fe-57bcc8859b5e",
+    "data": [
+      {
+        "text": "causes for diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "705a3e99-31b2-4e4e-a82f-9da1fdaadce4",
+    "data": [
+      {
+        "text": "give me causes of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

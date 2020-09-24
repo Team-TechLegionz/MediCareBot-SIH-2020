@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ee480c53-1b3d-4ab8-9d3c-deb0fb760921",
+    "data": [
+      {
+        "text": "Gum disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc082755-e94b-42d5-ac88-e7b0e11af0f0",
+    "data": [
+      {
+        "text": "Gingivitis disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1428ff5a-ec66-48ee-bf2c-0d629da5f58b",
+    "data": [
+      {
+        "text": "gingivitis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4148ac8e-2a6c-4011-87ff-5412d16c1cc4",
+    "data": [
+      {
+        "text": "What is Gingivitis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

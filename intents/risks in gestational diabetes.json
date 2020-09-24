@@ -1,0 +1,44 @@
+{
+  "id": "98cf8848-8b97-4281-b799-c1f60c684d7f",
+  "name": "risks in gestational diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f87447b8-68f6-4ad7-b4fb-b59c68f3829d",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You’re more likely to get gestational diabetes if you:\n\nWere overweight before you got pregnant\nAre African-American, Asian, Hispanic, or Native American\nHave blood sugar levels that are higher than they should be but not high enough to be diabetes (this is called prediabetes)\nHave a family member with diabetes\nHave had gestational diabetes before\nHave high blood pressure or other medical complications\nHave given birth to a large baby (weighing more than 9 pounds)\nHave given birth to a baby who was stillborn or had certain birth defects\nAre older than 25"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

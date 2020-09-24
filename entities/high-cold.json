@@ -1,0 +1,9 @@
+{
+  "id": "d18a417f-fc09-4d69-80db-29ef19455ccf",
+  "name": "high-cold",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

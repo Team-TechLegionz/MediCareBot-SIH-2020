@@ -1,0 +1,31 @@
+{
+  "id": "0b209745-06ce-4581-8ee8-b5d3a504cd6a",
+  "name": "gingivitis-kids",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Periodontal disease can range from mild to severe. Most children with gum disease have the mildest form, called gingivitis. It causes the gums to become red, swollen, and sore. More advanced cases of gum disease are not common in children."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

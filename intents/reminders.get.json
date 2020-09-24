@@ -1,0 +1,104 @@
+{
+  "id": "e6505f5c-4d48-41db-8efe-ce95ae199485",
+  "name": "reminders.get",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.get",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "remindersget-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7efd905e-e35b-4570-b27e-22e347cf65ee",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bbbd11bf-ad7a-401d-8bb6-9acfad7e2f52",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "135e05c3-a8c9-4291-bda1-91a56e61516b",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1c4af44f-17a7-45ed-9b5d-cdcedeefbea3",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0046f7cf-cad1-4669-aa5a-4833a2420a68",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your reminders: [connect webhook to get a list of scheduled reminders]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

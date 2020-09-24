@@ -1,0 +1,82 @@
+[
+  {
+    "id": "700b89cb-f33a-4817-a1ec-425d7ced0a4a",
+    "data": [
+      {
+        "text": "tension",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " type headaches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f204f51-e081-4c0d-91a0-8f5865ed7a47",
+    "data": [
+      {
+        "text": "what are the symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "tension",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " type headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e48c442-76b7-4041-9f37-d0ac20d065bb",
+    "data": [
+      {
+        "text": "tension",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5815e1e-ce90-4fee-9586-1f19343ba05c",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "tension",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " type headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

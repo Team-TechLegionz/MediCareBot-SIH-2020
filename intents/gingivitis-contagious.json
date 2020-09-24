@@ -1,0 +1,31 @@
+{
+  "id": "14d5d549-034d-4a8f-bcef-8fd0c09ae010",
+  "name": "gingivitis-contagious",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Research has shown that periodontal disease is caused by the inflammatory reaction to bacteria under the gums, so periodontal disease technically may not be contagious. However, the bacteria that cause the inflammatory reaction can be spread through saliva."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

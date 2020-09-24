@@ -1,0 +1,139 @@
+[
+  {
+    "id": "91bcaa30-1a3c-4716-800b-f3f56dc05003",
+    "data": [
+      {
+        "text": "need doctor for ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef045ad3-6b61-4adf-a626-fe8053576dc0",
+    "data": [
+      {
+        "text": "need doctor for headaches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33f2bff2-20c8-4c94-9f17-fd4eff854553",
+    "data": [
+      {
+        "text": "i need a doctor for diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd246aa8-7faa-43cc-a88c-c2e362b52c01",
+    "data": [
+      {
+        "text": "book appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3be56d09-e72d-47fe-a85f-9bd2f973c970",
+    "data": [
+      {
+        "text": "i want to book an appointment with the doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0e07d00-03fc-4e05-8f1b-37bfbe695264",
+    "data": [
+      {
+        "text": "i need a dcotor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af131341-2d1f-4d0b-9266-52f4380ed763",
+    "data": [
+      {
+        "text": "doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6609edf7-0bb0-48b9-985c-38efc41bb572",
+    "data": [
+      {
+        "text": "can u suggest me a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd2fa079-0f9a-4fdd-8f16-08230c83fe23",
+    "data": [
+      {
+        "text": "i need to speak to an expert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5a37404-b6b5-400f-90a9-37b491775c0c",
+    "data": [
+      {
+        "text": "i want a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9846775-a859-458d-98e1-f96914158a9a",
+    "data": [
+      {
+        "text": "could you recommend me a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

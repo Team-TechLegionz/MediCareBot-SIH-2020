@@ -1,0 +1,81 @@
+{
+  "id": "5b3fc5b4-e254-4bad-b89b-8e74e93f7829",
+  "name": "causes-of-diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Causes of Diabetes",
+          "formattedText": "Causes of diabetes are :\nExtreme thirst\nFrequent urination\nBlurry vision\nExtreme hunger\nIncreased tiredness\nUnusual weight loss",
+          "image": {
+            "url": "https://www.thediabetescouncil.com/wp-content/uploads/2017/03/causes-of-diabetes-seizures.jpg",
+            "accessibilityText": "Causes of Diabetes"
+          },
+          "buttons": [
+            {
+              "title": "For More Details you can visit here",
+              "openUrlAction": {
+                "url": "https://www.webmd.com/diabetes/default.htm",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Causes of Type 1 diabetes",
+          "subtitle": "The exact cause of type 1 diabetes is unknown. Usually, the body\u0027s own immune system — which normally fights harmful bacteria and viruses — mistakenly destroys the insulin-producing (islet, or islets of Langerhans) cells in the pancreas. Other possible causes include:  Genetics Exposure to viruses and other environment",
+          "imageUrl": "https://i.pinimg.com/originals/e8/14/c9/e814c91963b1b696a58d9115895a4008.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Causes of Type 2 diabetes",
+          "subtitle": "Genes. Scientists have found different bits of DNA that affect how your body makes insulin. Extra weight . ... Metabolic syndrome . ... Too much glucose from your liver . ... Bad communication between cells. ... Broken beta cells.",
+          "imageUrl": "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/09/Type2_diabetesmellitus_big_898.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Causes of gestational diabetes",
+          "subtitle": "When you eat, your pancreas releases insulin, a hormone that helps move a sugar called glucose from your blood to your cells, which use it for energy..During pregnancy, your placenta makes hormones that cause glucose to build up in your blood. Usually, your pancreas can send out enough insulin to handle it. But if your body can’t make enough insulin or stops using insulin like it should, your blood sugar levels rise, and you get gestational diabetes.",
+          "imageUrl": "https://i0.wp.com/www.suzzyherbal.com/wp-content/uploads/2018/12/gestational-diabetes-causes.jpg?fit\u003d1024%2C740\u0026ssl\u003d1"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Causes of diabetes are :\nExtreme thirst\nFrequent urination\nBlurry vision\nExtreme hunger\nIncreased tiredness\nUnusual weight loss"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

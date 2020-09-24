@@ -1,0 +1,46 @@
+[
+  {
+    "id": "d3626492-3bf1-4838-b440-f1fdbb965795",
+    "data": [
+      {
+        "text": "tell me risks in type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4de914e6-6898-4f58-a814-8f18b2a640f8",
+    "data": [
+      {
+        "text": "What are the risks in type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

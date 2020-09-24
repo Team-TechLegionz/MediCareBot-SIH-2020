@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d10176d0-2140-46f5-89b7-8574317eda92",
+    "data": [
+      {
+        "text": "headache type ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33a284c7-ff3a-4d33-b1af-89df3554f9f1",
+    "data": [
+      {
+        "text": "can you tell me what is ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological  disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcd69b46-e0eb-4ce3-83b4-c97682359d06",
+    "data": [
+      {
+        "text": " define ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      },
+      {
+        "text": " headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e31481a-c61e-4753-b7cc-96c1bbbde70d",
+    "data": [
+      {
+        "text": "what are symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de6eddfe-6552-48af-9b38-6ba3976147ed",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04426a6b-11d5-43e9-8a76-8bb70609e721",
+    "data": [
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7c63a2b-645a-4b8a-88d5-f152191842a4",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "neurological disorder",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d841c21f-3665-437e-938c-66f63fad168f",
+    "data": [
+      {
+        "text": "can I treat typhoid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dea33aa-da4c-4695-a63e-684362916b67",
+    "data": [
+      {
+        "text": "is typhoid curable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

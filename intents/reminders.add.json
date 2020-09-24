@@ -1,0 +1,91 @@
+{
+  "id": "176fdd58-3414-454f-8c40-5f628ede96f1",
+  "name": "reminders.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.add",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "38fd2099-fae3-48d5-a40c-132814464f48",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How should I name this reminder?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me the name for this reminder."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4ff64e60-70fd-46c3-9cc3-2a8deae0b983",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When should I remind you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b1f96d3e-0ffc-4a84-b194-911f77765104",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your reminder has been scheduled!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

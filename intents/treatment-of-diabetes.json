@@ -1,0 +1,58 @@
+{
+  "id": "31efdb85-fec5-4be4-901b-bb46369ccecb",
+  "name": "treatment-of-diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "type 1 treatment",
+          "subtitle": "Taking insulin. Carbohydrate, fat and protein counting. Frequent blood sugar monitoring. Eating healthy foods. Exercising regularly and maintaining a healthy weight.",
+          "imageUrl": "https://i.pinimg.com/originals/e7/53/aa/e753aa7f7357d4e60490727e6e1957cc.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "type 2 treatment",
+          "subtitle": "Management of type 2 diabetes includes:  Weight loss Healthy eating Regular exercise Possibly, diabetes medication or insulin therapy Blood sugar monitoring",
+          "imageUrl": "http://www.animateddiabetespatient.com/en/content.ashx?file\u003dadp03/slides/m3_slide_06.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Gestational diabetes treatment",
+          "subtitle": "Monitoring your blood sugar.Healthy diet. Medication. If diet and exercise aren\u0027t enough, you may need insulin injections to lower your blood sugar.Exercise. Regular physical activity plays a key role in every woman\u0027s wellness plan before, during and after pregnancy.Eating the right kinds of food in healthy portions is one of the best ways to control your blood sugar and prevent too much weight gain, which can put you at higher risk of complications.",
+          "imageUrl": "https://static.diabetesaustralia.com.au/s/images/diabetes-australia/72d0df52-4990-437d-a2dc-6aa81c52a2ee.jpg?w\u003d1536\u0026quality\u003d50"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Treatment for diabetes requires keeping close watch over your blood sugar levels (and keeping them at a goal set by your doctor) with a combination of medications, exercise, and diet. By paying close attention to what and when you eat, you can minimize or avoid the \"seesaw effect\" of rapidly changing blood sugar levels, which can require quick changes in medication dosages, especially insulin"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

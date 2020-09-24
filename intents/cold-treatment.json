@@ -1,0 +1,50 @@
+{
+  "id": "31cc7957-844b-4abf-b87c-8075e3b4b150",
+  "name": "cold-treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb7bca45-3439-4b9a-a953-33084832483b",
+          "required": false,
+          "dataType": "@high-cold",
+          "name": "high-cold",
+          "value": "$high-cold",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "\u003e 𝐆𝐚𝐫𝐠𝐥𝐢𝐧𝐠, This old-school remedy can ease a sore throat, which is often one of the first symptoms of a cold. People can choose from a variety of saltwater gargle recipes, including gargling with 1 teaspoon of salt mixed in a cup of warm water\n\u003e 𝐒𝐢𝐩𝐩𝐢𝐧𝐠 𝐟𝐥𝐮𝐢𝐝𝐬, Drinking plenty of fluids can help prevent dehydration and may thin mucus. Water is the best bet when it comes to staying well hydrated. Other liquids such as juice are also acceptable. People who have a cold should avoid alcohol, which can contribute to dehydration."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

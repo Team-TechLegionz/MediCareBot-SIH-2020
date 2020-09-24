@@ -1,0 +1,47 @@
+{
+  "id": "4701b673-db56-483e-9bed-7f4843dcdab7",
+  "name": "risks in type1",
+  "auto": true,
+  "contexts": [
+    "type1",
+    "risks"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed4cad72-536b-4243-8645-7f3794e3d348",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If a sibling has type 1 diabetes, the risk is 5-6%; however, if the sibling has identical MHC (Major Histocompatibility Complex) haplotypes, the risk increases. When one identical twin has diabetes, the risk of the other twin developing diabetes traditionally has been thought to be about 40%. Recent research suggests that the number may be much higher."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

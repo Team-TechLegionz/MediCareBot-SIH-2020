@@ -1,0 +1,34 @@
+{
+  "id": "8b165c77-f56a-46e3-b513-434d1b260d23",
+  "name": "How is obesity diagnosed?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "more accurate measures of body fat and body fat distribution include skinfold thickness, waist-to-hip comparisons, and screening tests such as ultrasound, computed tomography (CT), and magnetic resonance imaging (MRI) scans.",
+            "Your doctor may also order certain tests to help diagnose obesity as well as obesity-related health risks. These may include blood tests to examine cholesterol and glucose levels, liver function tests, diabetes screen, thyroid tests, and heart tests, such as an electrocardiogram.\n\nA measurement of the fat around your waist is also a good predictor of risk for obesity-related diseases."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

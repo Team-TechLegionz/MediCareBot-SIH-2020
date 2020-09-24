@@ -1,0 +1,44 @@
+{
+  "id": "da672ad1-d793-4fb5-981c-a81b15f6929d",
+  "name": "type-one-diabetes-causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "71f5c5cc-317f-489c-bba1-94238cd76262",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The exact cause of type 1 diabetes is unknown. Usually, the body\u0027s own immune system — which normally fights harmful bacteria and viruses — mistakenly destroys the insulin-producing (islet, or islets of Langerhans) cells in the pancreas. Other possible causes include:\n\nGenetics\nExposure to viruses and other environmental factors"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

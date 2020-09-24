@@ -1,0 +1,34 @@
+{
+  "id": "c2460320-8d12-4234-9dfe-b78dc294db76",
+  "name": "fatigue-causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "The cause of CFS (Chronic Fatigue Syndrome) is unknown. Researchers speculate that contributing factors may include:\n\nviruses\na weakened immune system\nstress\nhormonal imbalances\nIt’s also possible that some people are genetically predisposed to develop CFS.",
+            "Though CFS (Chronic Fatigue Syndrome) can sometimes develop after a viral infection, no single type of infection has been found to cause CFS. Some viral infections that have been studied in relation to CFS include:\n\nEpstein-Barr virus (EBV)\nhuman herpesvirus 6\nRoss River virus (RRV)\nrubella"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "31457327-dcfa-404c-93a2-b89845888e18",
+  "name": "diabetes_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "740b4b12-b84c-47cc-970d-9e26ad00eaaa",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Type 2 diabetes is when your body doesn’t use insulin properly. In type 2 diabetes, some people are insulin resistant, meaning that their body produces a lot of insulin but can’t use it effectively. Some people with type 2 diabetes don’t produce enough insulin. Type 2 is different from type 1 diabetes because in type 1, your body doesn’t produce any insulin at all."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

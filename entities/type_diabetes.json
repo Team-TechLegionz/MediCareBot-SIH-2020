@@ -1,0 +1,9 @@
+{
+  "id": "8a414316-94a3-4148-a2c2-de1e5bfea412",
+  "name": "type_diabetes",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

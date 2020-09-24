@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1e868f78-4ca5-4dfe-8444-87a1b0570fbe",
+    "data": [
+      {
+        "text": "What are causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b35819d-1a28-4543-a4a1-80a7a77cbe41",
+    "data": [
+      {
+        "text": "reasons for ",
+        "userDefined": false
+      },
+      {
+        "text": "type two",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec303fe5-5e93-4e15-b558-b29af4170774",
+    "data": [
+      {
+        "text": "reasons for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

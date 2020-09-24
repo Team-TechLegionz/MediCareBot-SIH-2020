@@ -1,0 +1,9 @@
+{
+  "id": "2648162c-26b4-4db0-90c6-5cb223cc1248",
+  "name": "typhoid",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

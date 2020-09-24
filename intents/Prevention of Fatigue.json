@@ -1,0 +1,35 @@
+{
+  "id": "4ce22635-4b7b-4513-baae-4b9a7427cc2c",
+  "name": "Prevention of Fatigue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Manage stress and practice relaxation techniques.\nGet exercise, but begin slowly and check with your health care practitioner before beginning any exercise program. Find a good time to exercise and develop a habit of exercise.\nCheck your medications with a health care practitioner or pharmacists to see if some medications could be responsible for fatigue.",
+            "Improve your diet and eat a good breakfast (whole grain cereal, fruit, milk). Add more fruits and vegetables.\nStop any excessive caffeine consumption.\nStop smoking.\nHave sex with your spouse or partner.",
+            "Get enough sleep and have a good and consistent sleep routine (sleep hygiene). Go to bed at the same time every night.\nAvoid coffee, tea, or caffeinated drinks after 6 pm.\nDo not drink alcohol after dinner, and decrease the total amount of alcohol consumed. (Alcohol interferes with sleep patterns.)\nPeople with underlying medical conditions (for example, diabetes, COPD, anxiety) can reduce symptoms of their disease, including fatigue, by working with their health care practitioners to optimize the treatment of the underlying problems"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

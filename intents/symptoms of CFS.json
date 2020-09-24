@@ -1,0 +1,35 @@
+{
+  "id": "bed174e5-656f-44c9-a1de-f4df6125f656",
+  "name": "symptoms of CFS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "CFS (Chronic Fatigue Syndrome) can also introduce sleep problems, such as:\n\nfeeling unrefreshed after a night’s sleep\nchronic insomnia\nother sleep disorders",
+            "loss of memory\nreduced concentration\northostatic intolerance (going from lying or seated to standing positions makes you lightheaded, dizzy, or faint)",
+            "Physical symptoms of CFS may include:\n\nmuscle pain\nfrequent headaches\nmulti-joint pain without redness or swelling\nfrequent sore throat\ntender and swollen lymph nodes in your neck and armpits"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

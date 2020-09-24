@@ -1,0 +1,31 @@
+{
+  "id": "f579a10a-a2c0-4a02-aee9-05680a512b76",
+  "name": "hbp-normal-bp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Normal blood pressure is systolic pressure less than 120 and diastolic pressure less than 80 mmHg.\n\u003e Elevated is systolic pressure of 120-129 and diastolic pressure less than 80 mmHg.\n\u003e Stage 1 Hypertension is systolic pressure of 130-139 or diastolic pressure of 80-89 mmHg.\n\u003e Stage 2 Hypertension is systolic pressure of 140 or greater o rdiastolic pressure of 90 or greater."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

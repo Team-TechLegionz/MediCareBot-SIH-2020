@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ca773696-b030-44ad-8aac-fc23dd39b31d",
+    "data": [
+      {
+        "text": "give symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3dc8b66-4ed7-4dcc-8da5-89bd726bd8fd",
+    "data": [
+      {
+        "text": "give symptoms of diabetes ",
+        "userDefined": false
+      },
+      {
+        "text": "type two",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "575662a5-7b27-415b-80b9-891357932cb4",
+    "data": [
+      {
+        "text": "how to know if a person has diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95b2759c-5029-4bf8-a12b-1cc87a19903b",
+    "data": [
+      {
+        "text": "show signs of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f16f760-1920-47d7-9105-edbc1a0fa82f",
+    "data": [
+      {
+        "text": "give signs of diabetes ",
+        "userDefined": false
+      },
+      {
+        "text": "type two",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0602926c-25e2-4eb1-a032-bb9daee2ac9b",
+    "data": [
+      {
+        "text": "give signs of diabetes type one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d224bbd3-d0ed-4377-8d04-01bc41f058b6",
+    "data": [
+      {
+        "text": "give signs of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7070e297-3902-46da-a536-48452f69fb7b",
+    "data": [
+      {
+        "text": "what are signs of  diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00f050e2-e1ab-4436-9113-30e813856334",
+    "data": [
+      {
+        "text": "What are symptoms of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

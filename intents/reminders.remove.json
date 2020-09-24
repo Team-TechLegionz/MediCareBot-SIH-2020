@@ -1,0 +1,105 @@
+{
+  "id": "c98a882a-0aef-40be-8ef6-d9329413bda2",
+  "name": "reminders.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.remove",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e48f4f70-378c-4392-abe7-2c0c569e9033",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What reminder do you want to remove?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cfa83a5e-808e-4224-83ef-a63e497eccf0",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "894d07f5-b4ee-4684-9faa-9449106f2118",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e9369244-04cb-4f74-b0da-afe7f3e3ba49",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "25fcb5a5-58b5-492b-b9c7-181fe46cf025",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Removed it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

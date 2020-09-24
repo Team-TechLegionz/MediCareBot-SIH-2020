@@ -1,0 +1,44 @@
+{
+  "id": "5ec592fb-46c8-4f9c-82d0-c61e14097f29",
+  "name": "typetwo-diabetes-prevention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d28c7e01-4e3f-46ae-b95c-ede736fe8969",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Adopting a healthy lifestyle can help you lower your risk of diabetes.\n\nLose weight . Dropping just 7% to 10% of your weight can cut your risk of type 2 diabetes in half.\nGet active. Thirty minutes of brisk walking a day will cut your risk by almost a third.\nEat right. Avoid highly processed carbs, sugary drinks, and trans and saturated fats. Limit red and processed meats.\nQuit smoking . Work with your doctor to keep from gaining weight after you quit, so you don\u0027t create one problem by solving another."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dac665a7-f427-4c65-b156-87967d4b7292",
+  "name": "types-of-stomachache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "1.Constipation",
+          "imageUrl": "\u003ca href\u003d\"https://ibb.co/Q8CgsJL\"\u003e\u003cimg src\u003d\"https://i.ibb.co/SQdjq6b/20191023-appendicitis-photo-1170x700.jpg\" alt\u003d\"20191023-appendicitis-photo-1170x700\" border\u003d\"0\"\u003e\u003c/a\u003e"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "2.Appendicitis.",
+          "imageUrl": "\u003ca href\u003d\"https://ibb.co/Q8CgsJL\"\u003e\u003cimg src\u003d\"https://i.ibb.co/SQdjq6b/20191023-appendicitis-photo-1170x700.jpg\" alt\u003d\"20191023-appendicitis-photo-1170x700\" border\u003d\"0\"\u003e\u003c/a\u003e"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "3. Irritable Bowel Syndrome (IBS).",
+          "imageUrl": "\u003ca href\u003d\"https://ibb.co/Q8CgsJL\"\u003e\u003cimg src\u003d\"https://i.ibb.co/SQdjq6b/20191023-appendicitis-photo-1170x700.jpg\" alt\u003d\"20191023-appendicitis-photo-1170x700\" border\u003d\"0\"\u003e\u003c/a\u003e"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "4.Lactose intolerance",
+          "imageUrl": "\u003ca href\u003d\"https://ibb.co/Q8CgsJL\"\u003e\u003cimg src\u003d\"https://i.ibb.co/SQdjq6b/20191023-appendicitis-photo-1170x700.jpg\" alt\u003d\"20191023-appendicitis-photo-1170x700\" border\u003d\"0\"\u003e\u003c/a\u003e"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "5. Ulcerative colitis",
+          "imageUrl": "\u003ca href\u003d\"https://ibb.co/Q8CgsJL\"\u003e\u003cimg src\u003d\"https://i.ibb.co/SQdjq6b/20191023-appendicitis-photo-1170x700.jpg\" alt\u003d\"20191023-appendicitis-photo-1170x700\" border\u003d\"0\"\u003e\u003c/a\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Stomachache is pain in or in the region of the stomach. Types of stomachache are:\n1.Constipation.\n2.Appendicitis.\n3. Irritable Bowel Syndrome (IBS).\n4.Lactose intolerance.\n5. Ulcerative colitis."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

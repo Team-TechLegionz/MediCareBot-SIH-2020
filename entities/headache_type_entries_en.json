@@ -1,0 +1,44 @@
+[
+  {
+    "value": "Migraine",
+    "synonyms": [
+      "Migraine",
+      "cephalalgia.",
+      "hemicrania.",
+      "megrim.",
+      "misery in the head.",
+      "sinus headache.",
+      "splitting headache"
+    ]
+  },
+  {
+    "value": "Tension",
+    "synonyms": [
+      "Tension",
+      "tightness",
+      "tautness",
+      "tenseness",
+      "rigidity",
+      "pressure",
+      "stress",
+      "strain"
+    ]
+  },
+  {
+    "value": "Neurological Disorder",
+    "synonyms": [
+      "Neurological Disorder",
+      "audiovisual.",
+      "auditory.",
+      "olfactory.",
+      "sensual."
+    ]
+  },
+  {
+    "value": "Cluster Headaches",
+    "synonyms": [
+      "Cluster Headaches",
+      "histamine headache"
+    ]
+  }
+]

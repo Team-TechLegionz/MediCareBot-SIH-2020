@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c36d978a-1907-4e90-877a-7af967452310",
+    "data": [
+      {
+        "text": "How to prevent diabetes ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca65c22-6d71-470f-9c34-34e0f85b0338",
+    "data": [
+      {
+        "text": "Preventions of ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ecbe42e-bd07-4e4a-99bb-fb3c3a791091",
+    "data": [
+      {
+        "text": "avoidances of ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda4f04b-acfa-4379-8bc4-c73c439b3cb0",
+    "data": [
+      {
+        "text": "how to avoid ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": true
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

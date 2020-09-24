@@ -1,0 +1,104 @@
+{
+  "id": "ce42c6b8-3b66-42be-a0b6-fb8bee2c42d0",
+  "name": "reminders.get.past",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.get.past",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "remindersgetpast-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0b8be2e5-fbdd-4e42-9347-89a186ba170e",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "56644c3a-2932-46cc-a51f-c8dbc0b45a0b",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "88fdfdf3-0422-4c17-8254-948a920059e8",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "305558f5-9e04-43ed-9970-452ae1fb795b",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "db80e509-fa9a-4804-bc6c-594d0f7278fd",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

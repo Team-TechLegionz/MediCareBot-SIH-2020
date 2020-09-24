@@ -1,0 +1,44 @@
+{
+  "id": "5ede6155-9bc5-4ac9-8058-120a8384718e",
+  "name": "Gestational Diabetes Tests and Diagnosis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "029c53f1-d742-42dc-9219-0d5cb9a50458",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Gestational diabetes usually happens in the second half of pregnancy. Your doctor will check for it between weeks 24 and 28 or sooner if you\u0027re at high risk. Your doctor will give you a glucose challenge or glucose screening test. You’ll drink something sweet to raise your blood sugar. An hour later, you’ll take a blood test to see how your body handled all that sugar. If the results show that your blood sugar is higher than a certain level, usually around 200 milligrams per deciliter (mg/dL), you’ll need an oral glucose tolerance test. This means checking your blood sugar after going without food and having a 3-hour glucose test.\n\nIf you’re at high risk but your test results are normal, your doctor might test you again later in your pregnancy to make sure you still don’t have it"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

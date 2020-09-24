@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1f818d49-ecbc-437f-a7c7-d4394c213ea6",
+    "data": [
+      {
+        "text": "Information about obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2899e6f8-2ae7-4648-938c-264c288476e4",
+    "data": [
+      {
+        "text": "Obesity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18c4dad7-d420-460b-a9eb-d0f692c028c4",
+    "data": [
+      {
+        "text": "tell me what is obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92381724-b6c3-4ffa-9eee-bc9e6f65e175",
+    "data": [
+      {
+        "text": "What is obesity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

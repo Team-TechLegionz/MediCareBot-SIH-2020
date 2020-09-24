@@ -1,0 +1,31 @@
+{
+  "id": "570e0a0f-efea-4d53-813b-e26408692c57",
+  "name": "What is chronic fatigue syndrome?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Chronic fatigue syndrome (CFS) is a disorder characterized by extreme fatigue or tiredness that doesn’t go away with rest and can’t be explained by an underlying medical condition."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "45122018-953c-47e2-b55e-8c8e7dac298f",
+  "name": "healthy-lifestyle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Tips for healthy lifestyle",
+          "subtitle": "Here are some Healthy lifestyle tips:- Eat a variety of foods. Base your diet on plenty of foods rich in carbohydrates. Replace saturated with unsaturated fat. Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat regularly, control the portion size. Drink plenty of fluids. Maintain a healthy body weight",
+          "imageUrl": "https://i.pinimg.com/736x/84/58/86/84588653111b005d1b7dbab1a5aad4a7.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here are some Healthy lifestyle tips:\n1.Eat a variety of foods.\n2.Base your diet on plenty of foods rich in carbohydrates.\n3.Replace saturated with unsaturated fat.\n4.Enjoy plenty of fruits and vegetables.\n5.Reduce salt and sugar intake.\n6.Eat regularly, control the portion size.\n7.Drink plenty of fluids.\n8.Maintain a healthy body weight"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

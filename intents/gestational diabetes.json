@@ -1,0 +1,44 @@
+{
+  "id": "a6dcb9c6-0c25-4ede-aaf1-6913aa0dea37",
+  "name": "gestational diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9be388b4-68f4-488e-a7b8-2723835d56c9",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Gestational diabetes is a condition in which your blood sugar levels become high during pregnancy. It affects up to 10% of women who are pregnant in the U.S. each year. There are two classes of gestational diabetes. Women with class A1 can manage it through diet and exercise."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

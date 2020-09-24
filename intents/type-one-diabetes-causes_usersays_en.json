@@ -1,0 +1,86 @@
+[
+  {
+    "id": "25b950e8-1bb1-4f75-bcbe-87eb3c007835",
+    "data": [
+      {
+        "text": "What are causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d088c641-1fae-43fe-8985-9aa3b9020ab1",
+    "data": [
+      {
+        "text": "give me causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e7ea649-5b83-4e26-af53-48a5c7947236",
+    "data": [
+      {
+        "text": "reasons for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e1adac5-0c90-4c19-a825-baaa1d76b434",
+    "data": [
+      {
+        "text": "reasons for diabetes ",
+        "userDefined": false
+      },
+      {
+        "text": "type one",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

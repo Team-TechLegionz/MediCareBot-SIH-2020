@@ -1,0 +1,48 @@
+{
+  "id": "499d4dd6-768a-41fb-b01d-605a02e3185f",
+  "name": "gestational-diabetes-complications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f4182147-f2ba-491d-9607-a2f8c316ba64",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Excessive birth weight. Extra glucose in your bloodstream crosses the placenta, which triggers your baby\u0027s pancreas to make extra insulin. This can cause your baby to grow too large (macrosomia). Very large babies — those that weigh 9 pounds or more — are more likely to become wedged in the birth canal, sustain birth injuries or require a C-section birth.",
+            "High blood pressure and preeclampsia. Gestational diabetes raises your risk of high blood pressure, as well as preeclampsia — a serious complication of pregnancy that causes high blood pressure and other symptoms that can threaten the lives of both mother and baby.",
+            "Future diabetes. If you have gestational diabetes, you\u0027re more likely to get it again during a future pregnancy. You\u0027re also more likely to develop type 2 diabetes as you get older. However, making healthy lifestyle choices such as eating healthy foods and exercising can help reduce the risk of future type 2 diabetes."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

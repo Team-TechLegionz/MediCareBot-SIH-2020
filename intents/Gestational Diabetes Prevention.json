@@ -1,0 +1,35 @@
+{
+  "id": "b432e97b-6dd1-4aef-97e9-9d29210456c7",
+  "name": "Gestational Diabetes Prevention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "You can lower your risk before you get pregnant by:\n\nEating a healthy diet\nStaying active\nLosing extra weight",
+            "Eat healthy foods. Choose foods high in fiber and low in fat and calories. Focus on fruits, vegetables and whole grains. Strive for variety to help you achieve your goals without compromising taste or nutrition. Watch portion sizes.",
+            "Keep active. Exercising before and during pregnancy can help protect you from developing gestational diabetes. Aim for 30 minutes of moderate activity on most days of the week. Take a brisk daily walk. Ride your bike. Swim laps."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

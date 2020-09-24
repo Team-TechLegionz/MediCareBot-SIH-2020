@@ -1,0 +1,31 @@
+{
+  "id": "17fda660-8591-45f9-ae29-fbd2567bc14e",
+  "name": "obesity-complications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here are the complications: \n\u003e type 2 diabetes\n\u003e heart disease\n\u003e high blood pressure\n\u003e certain cancers (breast, colon, and endometrial)\n\u003e stroke\n\u003e gallbladder disease\n\u003e fatty liver disease\n\u003e high cholesterol\n\u003e sleep apnea and other breathing problems"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

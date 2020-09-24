@@ -1,0 +1,48 @@
+{
+  "id": "eedf6048-b3b8-4661-af11-6b19876ad6f4",
+  "name": "Test and Diagnosis of type 1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5d48292-c81e-45b4-949b-a469585c42c5",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Glycated hemoglobin (A1C) test. This blood test indicates your average blood sugar level for the past two to three months. It measures the percentage of blood sugar attached to the oxygen-carrying protein in red blood cells (hemoglobin). The higher your blood sugar levels, the more hemoglobin you\u0027ll have with sugar attached. An A1C level of 6.5 percent or higher on two separate tests indicates diabetes If the A1C test isn\u0027t available, or if you have certain conditions that can make the A1C test inaccurate — such as pregnancy or an uncommon form of hemoglobin (hemoglobin variant) — your doctor may use these tests:",
+            "Random blood sugar test. A blood sample will be taken at a random time and may be confirmed by repeat testing. Blood sugar values are expressed in milligrams per deciliter (mg/dL) or millimoles per liter (mmol/L). Regardless of when you last ate, a random blood sugar level of 200 mg/dL (11.1 mmol/L) or higher suggests diabetes, especially when coupled with any of the signs and symptoms of diabetes, such as frequent urination and extreme thirst.",
+            "Fasting blood sugar test. A blood sample will be taken after an overnight fast. A fasting blood sugar level less than 100 mg/dL (5.6 mmol/L) is normal. A fasting blood sugar level from 100 to 125 mg/dL (5.6 to 6.9 mmol/L) is considered prediabetes. If it\u0027s 126 mg/dL (7 mmol/L) or higher on two separate tests, you have diabetes."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

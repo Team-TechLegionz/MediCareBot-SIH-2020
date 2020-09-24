@@ -1,0 +1,60 @@
+{
+  "id": "f69549bf-5740-4547-af23-d64e83976a83",
+  "name": "risk in type 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e1e55aea-2ddf-4a8f-b7c7-d953710a2f2a",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "78d5b177-be8b-4806-a242-834d81d46749",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "You are more likely to develop type 2 diabetes if you\n\nare overweight or obese\nare age 45 or older\nhave a family history of diabetes\nare African American, Alaska Native, American Indian, Asian American, Hispanic/Latino, Native Hawaiian, or Pacific Islander",
+            "You are more likely to develop type 2 diabetes if you        have high blood pressure\nhave a low level of HDL (“good”) cholesterol, or a high level of triglycerides\nhave a history of gestational diabetes or gave birth to a baby weighing 9 pounds or more\nare not physically active\nhave a history of heart disease or stroke\nhave depression NIH external link",
+            "You are more likely to develop type 2 diabetes if you          \nhave polycystic ovary syndrome NIH external link, also called PCOS\nhave acanthosis nigricans—dark, thick, and velvety skin around your neck or armpits\nYou can also take the Diabetes Risk Test to learn about your risk for type 2 diabetes."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

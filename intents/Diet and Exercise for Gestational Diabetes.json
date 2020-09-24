@@ -1,0 +1,44 @@
+{
+  "id": "980fc634-8133-439c-b5d6-d0eb7f6cc7dd",
+  "name": "Diet and Exercise for Gestational Diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d5b1c6a-2af3-460a-9941-67fa06376594",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Take these simple steps to stay healthy:\n\nEat a healthy, low-sugar diet. Follow a meal plan made for someone with diabetes. Talk to your doctor to be sure you’re getting the nutrition you need. Trade sugary snacks like cookies, candy, and ice cream for natural sugars like fruits, carrots, and raisins. Add vegetables and whole grains, and watch your portion sizes.\nExercise throughout your pregnancy. Get active as soon as possible. Aim for 30 minutes of moderate activity most days of the week. Running, walking, swimming, and biking are all good options."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

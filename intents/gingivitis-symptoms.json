@@ -1,0 +1,31 @@
+{
+  "id": "a4e205fc-2e42-42d1-aebe-5af8fec1df19",
+  "name": "gingivitis-symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Signs and symptoms of gingivitis might include:\n1. Bright red or purple gums.\n2. Bleeding from the gums when brushing or flossing.\n3. Halitosis, or bad breath.\n4. Inflammation, or swollen gums.\n5. Receding gums.\n6. Soft gums"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

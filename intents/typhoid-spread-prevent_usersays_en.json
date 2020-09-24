@@ -1,0 +1,38 @@
+[
+  {
+    "id": "39e4a543-0a45-48b2-bda1-1f31e2477f73",
+    "data": [
+      {
+        "text": "prevent typhoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6142315-a479-433c-90ef-d02a332f890b",
+    "data": [
+      {
+        "text": "prevention of typhoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dc1fa66-2669-49ab-96c5-35b8f2917a0e",
+    "data": [
+      {
+        "text": "how do I prevent typhoid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

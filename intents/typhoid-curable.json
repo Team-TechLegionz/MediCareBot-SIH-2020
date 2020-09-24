@@ -1,0 +1,34 @@
+{
+  "id": "75397e59-76d5-483c-9d61-baeaee78a325",
+  "name": "typhoid-curable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Several antibiotics are effective for the treatment of typhoid fever.",
+            "If typhoid is caught early, it can be successfully treated with antibiotics; if it is not treated, typhoid can be fatal."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

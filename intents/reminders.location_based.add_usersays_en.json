@@ -1,0 +1,357 @@
+[
+  {
+    "id": "acc09edc-9c69-4238-9093-a1515f277129",
+    "data": [
+      {
+        "text": "don\u0027t let me forget to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy eggs",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " when I\u0027m at the ",
+        "userDefined": false
+      },
+      {
+        "text": "grocery store",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68ff2473-ea60-4d42-a2d7-61b23992926c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call mom",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time I\u0027m at ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dbcc0c0-bf6d-4512-9040-07f4a543ece4",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "visit my friend",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " when I\u0027m at ",
+        "userDefined": false
+      },
+      {
+        "text": "Waverley Street Palo Alto",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2099c441-32a7-4232-8e11-6c51efc60329",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call Tom",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every Friday",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      },
+      {
+        "text": " when I\u0027m at the ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f795523b-b86c-49ff-ae5a-e8d93e866d9a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call Tom",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " when I get to the ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d152a400-5e57-48f3-a3f6-6ef880a6ac45",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy milk",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time at the ",
+        "userDefined": false
+      },
+      {
+        "text": "grocery store",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2404cf5-b759-46e0-bb51-634839f2e510",
+    "data": [
+      {
+        "text": "remind me when I\u0027m at the ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "text Sara",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3027524a-d3ec-42f0-af04-0631ad305f52",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "walk my dog",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " when I get ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f985626-3f2b-4c9a-93ad-6fd5b28a4857",
+    "data": [
+      {
+        "text": "remind me when I get ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "send an email to John",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88a75ffb-8bd9-4519-8664-0824c5a36239",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "feed the cat",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " when I\u0027m at ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef7032d5-6ea7-46e6-8497-2e1318414543",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy fresh veggies",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time at the ",
+        "userDefined": false
+      },
+      {
+        "text": "grocery store",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

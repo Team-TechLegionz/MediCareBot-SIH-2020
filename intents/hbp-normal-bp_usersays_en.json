@@ -1,0 +1,94 @@
+[
+  {
+    "id": "cba4b4f3-25cb-4fde-ae5b-391cfcdf863c",
+    "data": [
+      {
+        "text": "normal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bp values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5cf88df-5557-4b43-978c-e81a7ba6dfcd",
+    "data": [
+      {
+        "text": "normal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c64abbf-b3a3-4c3c-94ae-694cfa0a113e",
+    "data": [
+      {
+        "text": "what are normal blood pressure values?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a78929f-0710-4e6a-86fd-5acaaa511833",
+    "data": [
+      {
+        "text": "normal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed7376e0-04a9-4ac8-81d6-5fe88512cd72",
+    "data": [
+      {
+        "text": "normal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bloodpressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d893420e-de23-42f0-9024-caa8dfc04d97",
+    "data": [
+      {
+        "text": "what is the normal blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

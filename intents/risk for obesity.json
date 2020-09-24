@@ -1,0 +1,37 @@
+{
+  "id": "d8250ac4-a528-4411-b6c7-f03cb380b177",
+  "name": "risk for obesity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Genetics\nSome people possess genetic factors that make it difficult for them to lose weight.",
+            "Environment and community\nYour environment at home, at school, and in your community, can all influence how and what you eat and how active you are. Maybe you haven’t learned to cook healthy meals or don’t think you can afford healthier foods.",
+            "Depression can sometimes lead to weight gain, as people turn to food for emotional comfort. Certain antidepressants can also increase risk of weight gain",
+            "It’s a good thing to quit smoking, but quitting can also lead to weight gain. For that reason, it’s important to focus on diet and exercise while you’re quitting.",
+            "Medications such as steroids or birth control pills can also put you at greater risk for weight gain."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

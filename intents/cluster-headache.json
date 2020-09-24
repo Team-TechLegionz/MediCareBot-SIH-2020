@@ -1,0 +1,52 @@
+{
+  "id": "8ee94bc0-6c24-4c92-9623-1b04bb0b0b55",
+  "name": "cluster-headache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8954491c-612e-48f0-8903-601d96f27c6e",
+          "required": false,
+          "dataType": "@headache_type",
+          "name": "headache_type",
+          "value": "$headache_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Cluster Headache",
+          "imageUrl": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2019/03/14/20/11/cluster-headache-8col-3802786-007-0.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Headaches that occur in pattern of clusters. Some symptoms of cluster headache are:\n1.Headache.\n2.Puffy eyes.\n3.Dysautonomia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

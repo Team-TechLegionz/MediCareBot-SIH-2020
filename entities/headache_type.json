@@ -1,0 +1,9 @@
+{
+  "id": "adcf0846-60e5-4239-8348-c837890c6162",
+  "name": "headache_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

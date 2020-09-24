@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9f3b1cb3-cd0e-4d82-81b2-67d17431659d",
+    "data": [
+      {
+        "text": "What is type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b12bcbaa-9678-4fb7-bbca-d58e00453c21",
+    "data": [
+      {
+        "text": "type one diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cee5bb9f-cb32-4a77-9388-d54b0e7fd79d",
+    "data": [
+      {
+        "text": "Give information about type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bedc9bc-4f4f-4f0e-a261-0e33c7742618",
+    "data": [
+      {
+        "text": "Tell me about type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d93bce-c701-4c5f-8899-c6f2707cfbaf",
+    "data": [
+      {
+        "text": "type ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8840841e-58a3-41ec-89aa-fd4f63d44dd5",
+    "data": [
+      {
+        "text": "What is type 1 of diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

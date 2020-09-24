@@ -1,0 +1,71 @@
+{
+  "id": "97acda2b-fe9b-4588-969d-eb1ff1896e2c",
+  "name": "prevention-of-diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "typesofdiabetes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "speech": "There are three main types of diabetes – type 1, type 2 and gestational."
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Type 1 Diabetes",
+          "subtitle": "There\u0027s no known way to prevent type 1 diabetes. But researchers are working on preventing the disease or further destruction of the islet cells in people who are newly diagnosed.  Ask your doctor if you might be eligible for one of these clinical trials, but carefully weigh the risks and benefits of any treatment available in a trial.",
+          "imageUrl": "https://www.benaroyaresearch.org/sites/default/files/post_3_graphic_1_recognizing_type_1_embeddedsocial.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Type 2 Diabetes",
+          "subtitle": "Adopting a healthy lifestyle can help you lower your risk of diabetes.  Lose weight . Dropping just 7% to 10% of your weight can cut your risk of type 2 diabetes in half. Get active. Thirty minutes of brisk walking a day will cut your risk by almost a third. Eat right. Avoid highly processed carbs, sugary drinks, and trans and saturated fats. Limit red and processed meats. Quit smoking . Work with your doctor to keep from gaining weight after you quit, so you don\u0027t create one problem by solving another.",
+          "imageUrl": "https://www.drugwatch.com/wp-content/uploads/type-2-diabetes.png"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Gestational Diabetes",
+          "subtitle": "Eat healthy foods. Choose foods high in fiber and low in fat and calories. Focus on fruits, vegetables and whole grains. Strive for variety to help you achieve your goals without compromising taste or nutrition. Watch portion sizes.",
+          "imageUrl": "https://www.chestercountyhospital.org/-/media/images/chestercounty/news%20images/2019/image%20of%20diabetes%20while%20pregnant%20statistics.ashx?h\u003d329\u0026w\u003d560\u0026la\u003den"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are three main types of diabetes – type 1, type 2 and gestational."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

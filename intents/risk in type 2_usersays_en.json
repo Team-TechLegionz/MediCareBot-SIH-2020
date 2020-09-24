@@ -1,0 +1,126 @@
+[
+  {
+    "id": "b930d556-fc62-4a18-b90f-f765e04ecf81",
+    "data": [
+      {
+        "text": "do you know more about type ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " risks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ad17b0d-564d-4748-97ab-77afb8ce8859",
+    "data": [
+      {
+        "text": "More risks in type ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70d012d3-42d1-4fcc-99b2-2e1fdba81219",
+    "data": [
+      {
+        "text": "Give some risks of type ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d54f57ac-02ad-4c53-8752-f2901572c73f",
+    "data": [
+      {
+        "text": "tell me risks of type ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6501314d-d8b4-4b23-bbfd-5c035c378308",
+    "data": [
+      {
+        "text": "what are risks in type ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14f91aa5-17b5-4aea-b667-bdc963d313f4",
+    "data": [
+      {
+        "text": "risks in ",
+        "userDefined": false
+      },
+      {
+        "text": "type2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

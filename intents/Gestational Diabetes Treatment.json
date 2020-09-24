@@ -1,0 +1,44 @@
+{
+  "id": "b86f6d45-1a18-4353-bbbe-81242ddf5333",
+  "name": "Gestational Diabetes Treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a392c97c-5054-4742-a674-f7cc7f6a7b7f",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you have gestational diabetes, you’ll need treatment as soon as possible to keep yourself and your baby healthy during your pregnancy and delivery. Your doctor will ask you to:\n\nCheck your blood sugar levels four or more times a day\nCheck your urine for ketones, chemicals that mean that your diabetes isn’t under control\nEat a healthy diet\nMake exercise a habit.\nYour doctor will keep track of your weight and your baby’s development. They might give you insulin or another medicine to keep your blood sugar under control."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

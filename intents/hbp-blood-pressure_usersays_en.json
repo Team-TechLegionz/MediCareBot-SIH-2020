@@ -1,0 +1,62 @@
+[
+  {
+    "id": "31abda7f-e64f-47fc-b24b-a238acaf69c5",
+    "data": [
+      {
+        "text": "blood pressures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "785c3eec-100b-4b20-922f-65cc646bd296",
+    "data": [
+      {
+        "text": "systolic diastolic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7e000c4-5a7e-4cf1-a045-5a882e03bdfc",
+    "data": [
+      {
+        "text": "Systolic and Diastolic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dd6e357-1755-4380-abb0-45dd9fa26ebd",
+    "data": [
+      {
+        "text": "types of blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c8d228a-b899-4741-93d3-318581d81c33",
+    "data": [
+      {
+        "text": "What Is Systolic and Diastolic Blood Pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

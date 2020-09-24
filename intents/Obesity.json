@@ -1,0 +1,31 @@
+{
+  "id": "674de1fb-3444-42b4-b4b9-545b6f74e7a6",
+  "name": "Obesity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Obesity is defined as having a body mass index (BMI) of 30 or more. BMI is a calculation that takes a person’s weight and height into account. However, BMI does have some limitations."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

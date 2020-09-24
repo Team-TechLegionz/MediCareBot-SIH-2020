@@ -1,0 +1,75 @@
+{
+  "id": "fbe51351-3040-4eca-bfc7-e82b14007700",
+  "name": "reminders.reschedule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.reschedule",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c17d3c4e-9a26-4202-8993-5cf15cec105e",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what time was it scheduled?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "30a10d0e-f9ac-4fcc-8696-f715e53811ca",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time-new",
+          "value": "$date-time-new",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the new time?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The reminder is edited."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

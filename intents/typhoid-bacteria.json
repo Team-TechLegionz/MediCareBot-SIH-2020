@@ -1,0 +1,31 @@
+{
+  "id": "2817bf79-913f-44ea-b6cd-bc11b34a0eee",
+  "name": "typhoid-bacteria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Salmonella Typhi or Salmonella Paratyphi are bacterias causing tyhpoid and paratyphoid respectively. The bacterium lives in the intestines and bloodstream of humans. It spreads between individuals by direct contact with the feces of an infected person."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

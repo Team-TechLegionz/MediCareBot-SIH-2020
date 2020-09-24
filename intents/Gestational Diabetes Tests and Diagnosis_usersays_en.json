@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0b74151f-69c1-48bb-abe7-dbf4c91ea2b8",
+    "data": [
+      {
+        "text": "how to diagnose ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac6f7f8a-1c03-464f-96be-8e9dd738d8ae",
+    "data": [
+      {
+        "text": "diagnosis for ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17d1f613-b431-46f4-a7d9-5013ff132ffe",
+    "data": [
+      {
+        "text": "exam tests for gestational diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c10e54b-10d0-4bed-8ee7-e0eecb8779ad",
+    "data": [
+      {
+        "text": "tests for ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8421fde-8af8-4bbc-a1a7-f008aabe63a7",
+    "data": [
+      {
+        "text": "what are tests for ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

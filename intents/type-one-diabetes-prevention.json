@@ -1,0 +1,44 @@
+{
+  "id": "fe38f61a-c9a5-4792-904f-ca30a8b14af6",
+  "name": "type-one-diabetes-prevention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e0f48632-cbee-45d2-88ba-9012efea4b52",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There\u0027s no known way to prevent type 1 diabetes. But researchers are working on preventing the disease or further destruction of the islet cells in people who are newly diagnosed.\n\nAsk your doctor if you might be eligible for one of these clinical trials, but carefully weigh the risks and benefits of any treatment available in a trial."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

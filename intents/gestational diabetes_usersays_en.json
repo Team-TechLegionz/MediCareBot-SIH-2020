@@ -1,0 +1,64 @@
+[
+  {
+    "id": "67202245-8665-4caf-ae97-629222609c8f",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cff7790e-6057-4e0c-85bb-6ac693803e85",
+    "data": [
+      {
+        "text": "Gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8896e3c7-eb55-4be2-8d57-3de5740f6ed6",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

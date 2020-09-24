@@ -1,0 +1,74 @@
+[
+  {
+    "id": "db65e353-5657-4317-a42b-f7bdc86dfb82",
+    "data": [
+      {
+        "text": "types of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational diabetes",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f116162-338f-4952-bc62-6c21710d292e",
+    "data": [
+      {
+        "text": "Classes of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational diabetes",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b16d0b36-4132-4c0e-85e6-585b616babba",
+    "data": [
+      {
+        "text": "classes in ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational diabetes",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d10cde-a2d2-49f5-9db9-a45d2df8ff2d",
+    "data": [
+      {
+        "text": "What are classes of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational diabetes",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

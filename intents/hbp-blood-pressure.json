@@ -1,0 +1,31 @@
+{
+  "id": "97bca94d-4e3f-4cfc-b927-c9a59ad775fa",
+  "name": "hbp-blood-pressure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The blood pressure reading is measured in millimeters of mercury (mmHg) and is written as systolic pressure, the force of the blood against the artery walls as your heart beats, over diastolic pressure, the blood pressure between heartbeats."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

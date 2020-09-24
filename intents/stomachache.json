@@ -1,0 +1,31 @@
+{
+  "id": "1bbfd3af-952d-4a23-bd34-bedde5a1444a",
+  "name": "stomachache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Stomachache is pain in or region of the stomach Here are some tips to relief stomachache.\n1.Reduce your intake of coffee, tea, and alcohol as these can make the pain worse\n2.Drink plenty of clear fluids such as water.\n3.Soak in a warm bath. Take care not to scald yourself.\n4. Place a hot water bottle or heated wheat bag on your abdomen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

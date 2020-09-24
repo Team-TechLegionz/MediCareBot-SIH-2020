@@ -1,0 +1,128 @@
+[
+  {
+    "id": "8cc156cb-0e16-4ad3-ad20-0b9aac8b9d19",
+    "data": [
+      {
+        "text": "cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": false
+      },
+      {
+        "text": " treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62800d8e-965f-4363-bf73-da633a18485f",
+    "data": [
+      {
+        "text": "treat ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cf54d06-1547-4c16-84d1-9bee7489ebfb",
+    "data": [
+      {
+        "text": "how to treat ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7731e92-aa80-4449-ab9b-8863e7ca7069",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "handle cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3b36392-87c5-4d8e-b3e3-dc234a1fb42b",
+    "data": [
+      {
+        "text": "what are measures for ",
+        "userDefined": false
+      },
+      {
+        "text": "handling cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dba7a95d-85d4-4dab-8c27-c1c2f908d744",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "prevent cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4078220a-9a5f-4e35-b9be-06a1d4d78867",
+    "data": [
+      {
+        "text": "How could I ",
+        "userDefined": false
+      },
+      {
+        "text": "overcome cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

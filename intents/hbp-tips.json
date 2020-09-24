@@ -1,0 +1,31 @@
+{
+  "id": "4cc0b668-315f-4ae9-a444-b3799ab05e53",
+  "name": "hbp-tips",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here are 10 lifestyle changes you can make to lower your blood pressure and keep it down.\n\u003e Lose extra pounds and watch your waistline.\n\u003e Exercise regularly. \n\u003e Eat a healthy diet. \n\u003e Reduce sodium in your diet. \n\u003e Limit the amount of alcohol you drink. \n\u003e Quit smoking. \n\u003e Cut back on caffeine. \n\u003e Reduce your stress."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

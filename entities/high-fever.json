@@ -1,0 +1,9 @@
+{
+  "id": "533bd057-2f5c-4c63-b094-4fe47242d62b",
+  "name": "high-fever",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

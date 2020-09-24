@@ -1,0 +1,44 @@
+{
+  "id": "c6b738ab-9a0f-46b2-9a81-89205fc2e860",
+  "name": "Type 2 Diabetes Complications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7d71518-bd1d-4ef9-9ce3-c5a7bf0c23ab",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Over time, high blood sugar can damage and cause problems with your:\n\nHeart and blood vessels. You’re up to five times more likely to get heart disease or have a stroke. You’re also at high risk of blocked blood vessels (atherosclerosis) and chest pain (angina).\nKidneys . If your kidneys are damaged or you have kidney failure, you could need dialysis or a kidney replacement. \nEyes . High blood sugar can damage the tiny blood vessels in the backs of your eyes (retinopathy). If this isn’t treated, it can cause blindness.\nNerves. This can lead to trouble with digestion, the feeling in your feet, and your sexual response.\nSkin. Your blood doesn’t circulate as well, so wounds heal slower and can become infected.\nPregnancy. Women with diabetes are more likely to have a miscarriage, a stillbirth, or a baby with a birth defect.\nSleep. You might develop sleep apnea, a condition in which your breathing stops and starts while you sleep.\nHearing. You’re more likely to have hearing problems, but it’s not clear why.\nBrain. High blood sugar can damage your brain and might put you at higher risk of Alzheimer’s disease."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

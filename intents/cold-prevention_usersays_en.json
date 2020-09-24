@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2bbc9d46-2d93-4cf3-a0e0-95cc53371ad2",
+    "data": [
+      {
+        "text": "what are the causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bc13f9d-ff9b-44ac-a951-d3010236a4db",
+    "data": [
+      {
+        "text": "cold avoidances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c37260-a8ad-4a47-bc0c-907d2c9fe66f",
+    "data": [
+      {
+        "text": "cold avoidness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db10775d-37ff-4326-a572-bd1e4fd5bd68",
+    "data": [
+      {
+        "text": "cold prevention",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42aa6b4b-dfe3-47c7-8758-2d3ef0713299",
+    "data": [
+      {
+        "text": "how should i prevent cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cbdede8-eb74-40b5-abb6-e0841e9a16c6",
+    "data": [
+      {
+        "text": "how can i prevent cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

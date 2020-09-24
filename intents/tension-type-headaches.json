@@ -1,0 +1,44 @@
+{
+  "id": "da6567f8-d226-4b01-a66a-1745c87fa2c1",
+  "name": "tension-type-headaches",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07df90e4-b00e-4071-828a-0a62fbbba488",
+          "required": false,
+          "dataType": "@headache_type",
+          "name": "headache_type",
+          "value": "$headache_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tension type headache is  a mild to moderate pain often described as feeling like a tight band around the head.\nSome of the symptoms are:\n1. Headache.\n2.Muscle pain\n3.Photophobia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

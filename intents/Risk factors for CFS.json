@@ -1,0 +1,31 @@
+{
+  "id": "bacf066e-2d01-469e-aade-1a18d660d2f1",
+  "name": "Risk factors for CFS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "CFS(Chronic Fatigue Syndrome) is most commonly seen among people in their 40s and 50s.\n\nSex also plays an important role in CFS, as women are two to four timesTrusted Source more likely to be diagnosed with CFS than men.\n\nOther factors that may increase your risk for CFS include:\n\ngenetic predisposition\nallergies\nstress\nenvironmental factors"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

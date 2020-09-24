@@ -1,0 +1,36 @@
+{
+  "id": "828398f1-9e16-4145-872e-d2235148cd0f",
+  "name": "How is obesity treated?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "If you’re obese and haven’t been able to lose weight on your own, medical help is available. Start with your family physician who may be able to refer you to a weight specialist in your area.",
+            "Lifestyle and behavior changes\nYour healthcare team can educate you on better food choices and help develop a healthy eating plan that works for you. A structured exercise program and increased daily activity — up to 300 minutes a week — will help build up your strength, endurance, and metabolism.",
+            "Medical weight loss\nMedications are usually prescribed only if other methods of weight loss haven’t worked and if you have a BMI of 27 or more in addition to obesity-related health issues.\n\nPrescription weight loss medications either prevent the absorption of fat or suppress appetite. These drugs can have unpleasant side effects. For example, the drug orlistat (Xenical) can lead to oily and frequent bowel movements, bowel urgency, and gas. Your doctor will monitor you closely while you’re taking these medications.",
+            "Weight loss surgery                                                                                                                                                      \n gastric bypass surgery, which creates a small pouch at the top of your stomach that connects directly to your small intestine. Food and liquids go through the pouch and into the intestine, bypassing most of the stomach.\nlaparoscopic adjustable gastric banding (LAGB), which separates your stomach into two pouches using a band\ngastric sleeve, which removes part of your stomach\nbiliopancreatic diversion with duodenal switch, which removes most of your stomach"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

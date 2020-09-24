@@ -1,0 +1,44 @@
+{
+  "id": "c37f5c6b-b16a-47b5-b144-fbbc69ea82c0",
+  "name": "what-migraine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67e6b3e1-94e5-4804-8c85-12e7451951cb",
+          "required": false,
+          "dataType": "@headache_type",
+          "name": "headache_type",
+          "value": "$headache_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Migraine headaches, also known as migraines, are a special type of headache that can cause debilitating pain.Symptoms are:\n1.Loss of appetite.\n2.Pale skin.\n3.Feeling very warm or cold\n4.Fatigue."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

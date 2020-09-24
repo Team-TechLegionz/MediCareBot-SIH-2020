@@ -1,0 +1,72 @@
+[
+  {
+    "id": "461aa9b5-ea6b-49f0-afa9-2320e4dd069c",
+    "data": [
+      {
+        "text": "body temperature is high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c47fe33-0711-467e-abc0-94f48d30cf85",
+    "data": [
+      {
+        "text": "my fever is high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15afa681-cdd3-4bfa-b3cb-6af2980f8f6d",
+    "data": [
+      {
+        "text": "high",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7c75afd-ad01-4525-80a1-090222b239ca",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2c0154-40f8-4ba8-9b0b-b80ee156d89e",
+    "data": [
+      {
+        "text": "I have fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

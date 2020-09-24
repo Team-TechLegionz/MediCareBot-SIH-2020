@@ -1,0 +1,31 @@
+{
+  "id": "4097b4cb-e96d-4b3b-a94a-74160eaf9474",
+  "name": "hbp-health-problems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Several potentially serious health conditions are linked to high blood pressure, \nincluding: Atherosclerosis, Heart Disease, Kidney Disease ,Stroke, Eye disease."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

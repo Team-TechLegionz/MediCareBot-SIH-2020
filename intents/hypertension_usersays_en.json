@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4440f6dc-7000-4f81-bc56-bba372769393",
+    "data": [
+      {
+        "text": "Hypertension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3649a6b5-3761-4bda-b495-2ec572af4c88",
+    "data": [
+      {
+        "text": "What Causes High Blood Pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed469b03-7397-4f90-8465-935d4d2dc0b7",
+    "data": [
+      {
+        "text": "What is Hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

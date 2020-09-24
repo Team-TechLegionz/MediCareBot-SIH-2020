@@ -1,0 +1,61 @@
+{
+  "id": "b62ede70-4fb7-4de6-baae-26c6ced47b33",
+  "name": "cold",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cold-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "cold",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "220bda48-a29d-4f86-be46-02c6a3bf1db4",
+          "required": false,
+          "dataType": "@high-cold",
+          "name": "high-cold",
+          "value": "$high-cold",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cold is a self-limited disease that can generally be managed at home.\nThe common cold has no cure, and there is no available vaccine😄"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

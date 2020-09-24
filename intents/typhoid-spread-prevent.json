@@ -1,0 +1,31 @@
+{
+  "id": "956914d0-7faf-40d5-887d-6bae5aa47eab",
+  "name": "typhoid-spread-prevent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Prevention:\n1) Wash your hands. Frequent hand-washing in hot, soapy water is the best way to control infection. \n2) Avoid drinking untreated water. Contaminated drinking water is a particular problem in areas where typhoid fever is endemic. \n3) Avoid raw fruits and vegetables. \n4) Choose hot foods."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

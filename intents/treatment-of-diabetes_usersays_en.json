@@ -1,0 +1,67 @@
+[
+  {
+    "id": "57359f69-d52b-4512-b25e-7dcbcbbcdeda",
+    "data": [
+      {
+        "text": "I have diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f3e82e0-14bc-443a-870a-438f52a9df34",
+    "data": [
+      {
+        "text": "How to cure  diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc7e84ee-3f0b-4836-9971-1a6928fb5fd3",
+    "data": [
+      {
+        "text": "treatments for  diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10fb9c62-bfd8-46fe-a8f4-3dab60fb12d4",
+    "data": [
+      {
+        "text": "treatment for  diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7d4ed24-3f15-42fc-88e9-b1e989ade37d",
+    "data": [
+      {
+        "text": "How to treat ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

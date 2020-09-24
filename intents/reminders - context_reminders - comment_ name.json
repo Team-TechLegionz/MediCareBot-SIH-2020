@@ -1,0 +1,53 @@
+{
+  "id": "926b38db-a61a-424f-9296-7e30fa2cc8de",
+  "name": "reminders - context:reminders - comment: name",
+  "auto": true,
+  "contexts": [
+    "reminders"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "#reminders.intent_action",
+      "affectedContexts": [
+        {
+          "name": "reminders",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fe366e58-26dd-4f54-b6ac-10fab544404f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Scheduled."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

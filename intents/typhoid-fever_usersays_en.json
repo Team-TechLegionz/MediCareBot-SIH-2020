@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2f4e02b5-f698-415e-a555-fbe86921752e",
+    "data": [
+      {
+        "text": "types of typhoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a88a5ac3-7746-43d4-9cf3-b480d126296b",
+    "data": [
+      {
+        "text": "what is typhoid and ",
+        "userDefined": false
+      },
+      {
+        "text": "paratyphoid",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72bcb7b6-92fb-4675-ba95-838fd4f1c23b",
+    "data": [
+      {
+        "text": "what is typhoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22e16891-8c5c-4910-b102-1ceb25435fd4",
+    "data": [
+      {
+        "text": "What are typhoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "85d34406-9bd1-418d-89fc-833c3f857c73",
+  "name": "Type 2 Diabetes Treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87640997-dbdf-4be1-a4e1-7b7b22002b50",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Weight loss. Dropping extra pounds can help. While losing 5% to 10% of your body weight is good, losing 7% and keeping it off seems to be ideal.",
+            "Healthy eating . There’s no specific diet for type 2 diabetes. A registered dietitian can teach you about carbs and help you make a meal plan you can stick with. Focus on:\nEating fewer calories\nCutting back on refined carbs, especially sweets\nAdding veggies and fruits to your diet\nGetting more fiber",
+            "Exercise. Try to get 30 to 60 minutes of physical activity every day. You can walk, bike, swim, or do anything else that gets your heart rate up. Pair that with strength training, like yoga or weightlifting. If you take a medication that lowers your blood sugar, you might need a snack before a workout.",
+            "Watch your blood sugar levels: Depending on your treatment, especially if you’re on insulin, your doctor will tell you if you need to test your blood sugar levels and how often to do it.",
+            "If lifestyle changes don’t get you to your target blood sugar levels, you may need medication. Some of the most common for type 2 diabetes include:\n\nMetformin  (Fortamet, Glucophage, Glumetza, Riomet). This is usually the first medication used to treat type 2 diabetes. It lowers the amount of glucose your liver makes and helps your body respond better to the insulin it does make.\nSulfonylureas. This group of drugs helps your body make more insulin. They include glimepiride (Amaryl), glipizide (Glucotrol, Metaglip), and glyburide (DiaBeta, Micronase).\nMeglitinides. They help your body make more insulin, and they work faster than sulfonylureas. You might take nateglinide (Starlix) or repaglinide (Prandin).\nThiazolidinediones. Like metformin, they make you more sensitive to insulin. You could get pioglitazone (Actos) or rosiglitazone (Avandia). But they also raise your risk of heart problems, so they aren’t usually a first choice for treatment.\nDPP-4 inhibitors. These medications -- linagliptin (Tradjenta), saxagliptin (Onglyza), and sitagliptin (Januvia) -- help lower your blood sugar levels, but they can also cause joint pain and could inflame your pancreas.\nGLP-1 receptor agonists. You take these medications with a needle to slow digestion and lower blood sugar levels. Some of the most common ones are exenatide (Byetta, Bydureon), liraglutide (Victoza), and semaglutide (Ozempic).\nSGLT2 inhibitors. These help your kidneys filter out more glucose. You might get canagliflozin (Invokana), dapagliflozin (Farxiga), or empagliflozin (Jardiance).\nInsulin. You might take long-lasting shots at night, such as insulin detemir (Levemir) or insulin glargine (Lantus)."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

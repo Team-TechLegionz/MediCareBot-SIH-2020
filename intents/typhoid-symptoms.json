@@ -1,0 +1,34 @@
+{
+  "id": "d62cd318-f573-41d2-841e-420b017e0c41",
+  "name": "typhoid-symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Typhoid symptoms include prolonged high fever, fatigue, headache, nausea, abdominal pain, and constipation or diarrhoea. Some patients may have a rash. Severe cases may lead to serious complications or even death.",
+            "Diagnosis of typhoid fever is made when the Salmonella bacteria is detected with a stool culture. Antibiotics treat typhoid fever.\nTyphoid fever symptoms are\n1) poor appetite,\n2) headaches,\n3) diarrhea,\n4) generalized aches and pains,\n5) fever\n6) lethargy."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

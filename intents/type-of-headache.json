@@ -1,0 +1,31 @@
+{
+  "id": "58fff828-f59d-4b39-ba5a-a90c47868b17",
+  "name": "type-of-headache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here are some types of Headache\n1. Migraine.\n2. Tension-type headaches.\n3. Headache disorder.\n4. Neurological disorder.\n5. Cluster headaches."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

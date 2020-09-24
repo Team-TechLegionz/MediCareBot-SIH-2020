@@ -1,0 +1,31 @@
+{
+  "id": "66f750d4-e40a-46d2-a236-ec6c25fbd8f9",
+  "name": "gingivitis-type",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are two main categories of gingival diseases:\n1. Dental plaque-induced gingival disease: This can be caused by plaque, systemic factors, medications, or malnutrition.\n2. Non-plaque induced gingival lesions: This can be caused by a specific bacterium, virus, or fungus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

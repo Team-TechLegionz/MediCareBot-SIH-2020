@@ -1,0 +1,58 @@
+{
+  "id": "6a1f4b25-4996-4bc0-9044-6d72e95248bc",
+  "name": "type-of-diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Type 1",
+          "subtitle": "Type 1 diabetes, once known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition in which the pancreas produces little or no insulin.",
+          "imageUrl": "https://image.slidesharecdn.com/whatistype1diabetesrevised-12961643752057-phpapp02/95/what-is-type-1-diabetes-revised-1-728.jpg?cb\u003d1296142830"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Type 2",
+          "subtitle": "The type in which the beta cells of the pancreas produce insulin but the body is unable to use it effectively because the cells of the body are resistant to the action of insulin.",
+          "imageUrl": "https://themedicalbiochemistrypage.org/images/glucosetolerancetest.png"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Gestational",
+          "subtitle": "Gestational diabetes is formally defined as \"any degree of glucose intolerance with onset or first recognition during pregnancy",
+          "imageUrl": "https://image.slidesharecdn.com/gestationaldiabetes-090228114149-phpapp01/95/gestational-diabetes-5-728.jpg?cb\u003d1235822127"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are three types of diabetes\n1. Type 1 - Type 1 diabetes, once known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition in which the pancreas produces little or no insulin. \n2. Type 2 -The type in which the beta cells of the pancreas produce insulin but the body is unable to use it effectively because the cells of the body are resistant to the action of insulin.\n3. Gestational -Gestational diabetes is formally defined as \"any degree of glucose intolerance with onset or first recognition during pregnancy"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

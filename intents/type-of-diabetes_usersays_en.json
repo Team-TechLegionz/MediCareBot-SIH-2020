@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6d4c0518-3631-4e8f-ac4f-2d910bc76512",
+    "data": [
+      {
+        "text": "give me types of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34813dc9-c15f-4a24-bcad-43b79841e566",
+    "data": [
+      {
+        "text": "tell me types of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "690a332f-c41d-4082-beca-426115290ecd",
+    "data": [
+      {
+        "text": "what are classes of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f004c92a-39a5-49b3-ae5e-cfa5c536a6d7",
+    "data": [
+      {
+        "text": "What are types of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

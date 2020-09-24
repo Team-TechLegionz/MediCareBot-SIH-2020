@@ -1,0 +1,50 @@
+{
+  "id": "2f3b0822-0055-459e-9a2a-dbec8dee612d",
+  "name": "type-two-diabetes-causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74095241-d52c-4bcd-b4a9-ff87dda934fd",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Genes. Scientists have found different bits of DNA that affect how your body makes insulin.\nExtra  weight . Being overweight or obese can cause insulin resistance, especially if you carry your extra pounds around your middle.",
+            "Metabolic syndrome . People with insulin resistance often have a group of conditions including high blood sugar, extra fat around the waist, high blood pressure, and high cholesterol and triglycerides.",
+            "Too much glucose from your  liver . When your blood sugar is low, your liver makes and sends out glucose. After you eat, your blood sugar goes up, and your liver will usually slow down and store its glucose for later. But some people\u0027s livers don\u0027t. They keep cranking out sugar.",
+            "Bad communication between cells. Sometimes, cells send the wrong signals or don\u0027t pick up messages correctly. When these problems affect how your cells make and use insulin or glucose, a chain reaction can lead to diabetes.",
+            "Broken beta cells. If the cells that make insulin send out the wrong amount of insulin at the wrong time, your blood sugar gets thrown off. High blood sugar can damage these cells, too."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

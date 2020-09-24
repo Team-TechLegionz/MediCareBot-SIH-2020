@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d3abae43-cdfc-4ed3-9cf0-1ce12c853902",
+    "data": [
+      {
+        "text": "give complications for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dcf7107-b691-40c9-97b3-376ee0c0a171",
+    "data": [
+      {
+        "text": "complexities in ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e5f7077-cc4b-4f68-b0e7-ba272575ad04",
+    "data": [
+      {
+        "text": "what are complications in ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

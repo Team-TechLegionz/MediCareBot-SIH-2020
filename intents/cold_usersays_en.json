@@ -1,0 +1,56 @@
+[
+  {
+    "id": "305b4b82-d91d-44ac-a547-7c7d10eefe20",
+    "data": [
+      {
+        "text": "common ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "high-cold",
+        "meta": "@high-cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8724329f-90eb-48cf-b167-07594ea8959f",
+    "data": [
+      {
+        "text": "cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "866f9283-0446-44c7-9ccc-30c33e00f62a",
+    "data": [
+      {
+        "text": "what is cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a83fdaa7-680d-485d-9df8-9e0329490750",
+    "data": [
+      {
+        "text": "tell me about common cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

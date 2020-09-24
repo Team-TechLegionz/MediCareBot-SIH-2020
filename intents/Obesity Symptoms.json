@@ -1,0 +1,31 @@
+{
+  "id": "36fc84ef-3c2f-4e47-b41a-02152f3fa675",
+  "name": "Obesity Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "breathlessness.\nincreased sweating.\nsnoring.\ninability to cope with sudden physical activity.\nfeeling very tired every day.\nback and joint pains.\nlow confidence and self esteem.\nfeeling isolated."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

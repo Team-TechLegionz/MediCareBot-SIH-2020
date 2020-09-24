@@ -1,0 +1,37 @@
+{
+  "id": "0561794f-4d56-4fab-823c-424940a45e32",
+  "parentId": "ce42c6b8-3b66-42be-a0b6-fb8bee2c42d0",
+  "rootParentId": "ce42c6b8-3b66-42be-a0b6-fb8bee2c42d0",
+  "name": "reminders.get.past - back",
+  "auto": true,
+  "contexts": [
+    "reminders",
+    "remindersgetpast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminders.get.past.back",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

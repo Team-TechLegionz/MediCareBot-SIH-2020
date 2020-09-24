@@ -1,0 +1,31 @@
+{
+  "id": "3b4dd1a7-c3da-483b-a922-26c91beb1b61",
+  "name": "Complications of Fatigue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are a few complications that may develop from chronic fatigue syndrome, these include:\n\nDepression\nLifestyle restrictions\nIncreased amount of leave/sick days from work\nSocial isolation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

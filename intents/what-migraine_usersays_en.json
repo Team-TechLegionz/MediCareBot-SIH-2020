@@ -1,0 +1,124 @@
+[
+  {
+    "id": "d322eb8b-6e75-4f5c-8755-b1206b4e6a73",
+    "data": [
+      {
+        "text": "Can you answer me what is ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a402d4c-65d6-40a5-97fb-3b5d720e616a",
+    "data": [
+      {
+        "text": "can you tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "733423a8-e4ce-4301-a3fe-5855e8e64eff",
+    "data": [
+      {
+        "text": "Could you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ac90cec-f00e-4292-b606-66dd77f51c7a",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a991302-8e59-48d9-9c9f-e355ba393d73",
+    "data": [
+      {
+        "text": "Migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be017769-283b-41b4-a613-99d8804655f2",
+    "data": [
+      {
+        "text": "Can you tell me what is ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d61917-02ce-410f-9a0d-888786f76b3d",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "migraine",
+        "alias": "headache_type",
+        "meta": "@headache_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

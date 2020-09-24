@@ -1,0 +1,299 @@
+[
+  {
+    "id": "fbd936e3-8d4e-45e9-9bf6-eb52a24ff04e",
+    "data": [
+      {
+        "text": "and for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0ede4d7-52fa-45dd-8032-c8090e06faa1",
+    "data": [
+      {
+        "text": "now the one for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Friday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffdd3d55-d4ac-48b0-9b97-5add2c45fac1",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " also",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d437a381-e533-473c-9075-618fe7d59770",
+    "data": [
+      {
+        "text": "another one for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6db91ef8-493d-432b-859d-8fb8cf0cb909",
+    "data": [
+      {
+        "text": "new one for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09d9010c-c7fa-4ca6-b81c-88a9913daf04",
+    "data": [
+      {
+        "text": "add one more for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Tuesday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21572c64-68f5-444c-b59c-4be35f986ada",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e43bf0e-d4b2-4ed5-ba66-3109c8d8a71b",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "another",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55907519-9766-47db-8027-a2cbe770d7e2",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddd33a48-cf4b-4d83-a49c-9de039a7cd66",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "new",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " one for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56b8364e-48da-437b-ade8-215e6b1d682b",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "050d2298-d461-437b-991a-d29d377456d0",
+    "data": [
+      {
+        "text": "another",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " one for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e6dab5f-f94d-4789-82b1-8303c66f5b6e",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " more for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

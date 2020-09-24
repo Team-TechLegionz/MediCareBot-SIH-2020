@@ -1,0 +1,58 @@
+[
+  {
+    "id": "035e0d57-fa06-483c-80d0-054a8a752851",
+    "data": [
+      {
+        "text": "give some risks of ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44f2c8d1-9e2f-40ad-a1fe-71e8c74c93d8",
+    "data": [
+      {
+        "text": "What are risks in ",
+        "userDefined": false
+      },
+      {
+        "text": "gestational",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "298ea2ad-19d1-4dcf-b00f-e4c20c61034b",
+    "data": [
+      {
+        "text": "risks in gestational diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

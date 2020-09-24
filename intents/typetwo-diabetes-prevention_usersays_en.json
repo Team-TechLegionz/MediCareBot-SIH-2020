@@ -1,0 +1,60 @@
+[
+  {
+    "id": "a57e1de1-2ccf-4d26-ab77-ac4b567c5321",
+    "data": [
+      {
+        "text": "How to prevent ",
+        "userDefined": false
+      },
+      {
+        "text": "type 2",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8ad4a4e-9bf3-49c7-a689-b977089a0e3b",
+    "data": [
+      {
+        "text": "preventions of type 2 diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a49195a2-6408-4b7b-9683-95602b7ca3df",
+    "data": [
+      {
+        "text": "how to avoid type 2 diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58be271c-803c-4308-b46b-7171a3e357c0",
+    "data": [
+      {
+        "text": "avoidances of type 2 diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

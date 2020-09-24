@@ -1,0 +1,90 @@
+[
+  {
+    "id": "d63946d5-a47a-428a-84e1-85588aa6fe3b",
+    "data": [
+      {
+        "text": "exam tests for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2aedce9-a7dd-4960-a7f5-346f37ecb832",
+    "data": [
+      {
+        "text": "give diagnosis for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f37a58d2-d95f-4ae7-8321-e763b9f96c3f",
+    "data": [
+      {
+        "text": "how to diagnose ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c0df29a-4ced-4dba-861d-f799892a0251",
+    "data": [
+      {
+        "text": "What are tests for ",
+        "userDefined": false
+      },
+      {
+        "text": "type 1",
+        "alias": "type_diabetes",
+        "meta": "@type_diabetes",
+        "userDefined": false
+      },
+      {
+        "text": " diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

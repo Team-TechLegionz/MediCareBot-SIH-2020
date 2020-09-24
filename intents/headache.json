@@ -1,0 +1,31 @@
+{
+  "id": "89d7c259-1e33-46b4-aaa5-56ca5b0e61e7",
+  "name": "headache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Headache is a  painful sensation in any part of the head that can be a sign of stress or emotional distress that may occur with other symptoms. Here are some tips for Headache Relief:\n1. Close your eyes and rest.\n2. Massage your neck and temples.\n3. Warm-up your neck.\n4. Try putting a heating pad or a warm cloth around your neck and the base skull to ease tension headaches.\n5. Minimize Stress."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

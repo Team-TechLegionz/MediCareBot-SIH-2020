@@ -1,0 +1,78 @@
+{
+  "id": "3a97770f-43b7-4ac8-9535-95df6cfcabd3",
+  "name": "symptoms-of-diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0987b28b-1a7c-4c90-a4f0-0ea2147f53af",
+          "required": false,
+          "dataType": "@type_diabetes",
+          "name": "type_diabetes",
+          "value": "$type_diabetes",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "speech": "There are three types of Diabetes and each of them have their own symptoms"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Symptoms of Type 1 Diabetes",
+          "subtitle": "Type 1 diabetes signs and symptoms can appear relatively suddenly and may include:  Increased thirst Frequent urination Bed-wetting in children who previously didn\u0027t wet the bed during the night Extreme hunger Unintended weight loss Irritability and other mood changes Fatigue and weakness Blurred vision",
+          "imageUrl": "https://www.diabetes.ie/wp-content/uploads/2016/02/Hand-Image-Type-1-Campaign.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Symptoms of Type 2 Diabetes",
+          "subtitle": "The symptoms of type 2 diabetes can be so mild that you don\u0027t notice them. About 8 million people who have it don\u0027t know it. Symptoms include:  Being very thirsty Peeing a lot Blurry vision Being cranky Tingling or numbness in your hands or feet Fatigue/feeling worn out Wounds that don\u0027t heal Yeast infections that keep coming back Hunger Weight loss without trying Getting more infections Dark rashes around your neck or armpits (called acanthosis nigricans) that are often a sign of insulin resistance",
+          "imageUrl": "https://cdn2.vectorstock.com/i/1000x1000/22/01/symptoms-type-2-diabetes-infographics-vector-20422201.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Symptoms of Gestational diabetes",
+          "subtitle": "Women with gestational diabetes don’t usually have symptoms or may chalk them up to pregnancy. Most find out that they have it during a routine screening.  You may notice that:  You’re thirstier than usual You’re hungrier and eat more than usual You pee more than usual",
+          "imageUrl": "https://idf.org/images/site1/content/t2dsymptoms.JPG"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Symptoms of diabetes are:Excessive thirst and hunger.\n\nFrequent urination (from urinary tract infections or kidney problems)\nWeight loss or gain.\nFatigue.\nIrritability.\nBlurred vision.\nSlow-healing wounds.\nNausea."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
